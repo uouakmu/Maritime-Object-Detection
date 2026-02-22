@@ -1,4 +1,4 @@
-<img width="267" height="179" alt="image" src="https://github.com/user-attachments/assets/3d2183b2-e2ce-40a6-a3e4-787f69d3de95" />## 프로젝트명
+## 프로젝트명
 - Farneback 광학 흐름 기반 해상 위험 객체 탐지
   
 ## 프로젝트 목표
